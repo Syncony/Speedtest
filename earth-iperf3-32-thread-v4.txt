@@ -1,7 +1,7 @@
 各大洲 IPv4 32线程测速，v2024-03-15
-iperf3,美国 纽约           ,-c speedgauge2.optonline.net --up-and-down -P 32
-iperf3,美国 阿什本         ,-c ash.speedtest.clouvider.net -p 5200-5209 -4 --up-and-down -P 32
-iperf3,美国 查尔斯顿       ,-c speedtest15.suddenlink.net -4 --up-and-down -P 32
+iperf3,美国 芝加哥           ,-c speedtest.chi11.us.leaseweb.net -p 5201-5210 -4 --up-and-down -P 32
+iperf3,美国 达拉斯         ,-c speedtest.dal13.us.leaseweb.net -p 5201-5210 -4 --up-and-down -P 32
+iperf3,美国 洛杉矶       ,-c speedtest.lax12.us.leaseweb.net -p 5201-5210 -4 --up-and-down -P 32
 iperf3,德国 柏林           ,-c a110.speedtest.wobcom.de -4 --up-and-down -P 32
 iperf3,瑞士 温特图尔       ,-c speedtest.init7.net -4 --up-and-down -P 32
 iperf3,丹麦 哥本哈根       ,-c speed.fiberby.dk -p 9201-9240 -4 --up-and-down -P 32
